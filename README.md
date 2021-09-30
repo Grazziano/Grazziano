@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 ### Olá! 👋 Eu sou o Grazziano Fagundes
 
-- 🌱 Estudando Javascipt
+- 🌱 Atualmente estudando Javascript
 - 📫 Contate-me no e-mail grazzianofagundes@gmail.com
-<!-- - 😄 Pronouns: ele/dele -->
 
 <div align="center">
   <a href="https://github.com/Grazziano">

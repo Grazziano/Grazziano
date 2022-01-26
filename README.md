@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 Atualmente estudando Javascript / React / Node
 - 📫 Contate-me no e-mail grazzianofagundes@gmail.com
+- ⚡ Pelotas / RS
 
 <div align="center">
   <a href="https://github.com/Grazziano">

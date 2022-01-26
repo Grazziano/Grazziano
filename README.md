@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá! 👋 Eu sou o Grazziano Fagundes
+### Olá! 👋 Eu sou o Grazziano
 
 - 🌱 Atualmente estudando Javascript / React / Node
 - 📫 Contate-me no e-mail grazzianofagundes@gmail.com

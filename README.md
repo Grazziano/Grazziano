@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Olá! 👋 Eu sou o Grazziano Fagundes
 
-- 🌱 Atualmente estudando Javascript / React
+- 🌱 Atualmente estudando Javascript / React / Node
 - 📫 Contate-me no e-mail grazzianofagundes@gmail.com
 
 <div align="center">

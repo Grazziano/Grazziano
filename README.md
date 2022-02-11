@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá! 👋 Eu sou o Grazziano! Esse cara na foto ao lado 👈
+### Olá! 👋 Eu sou o Grazziano!
 
 - 🌱 Atualmente estudando Javascript / React / Node
-- 📫 Contate-me no e-mail grazzianofagundes@gmail.com
-- ⚡ Pelotas / RS
+<!-- - 📫 Contate-me no e-mail grazzianofagundes@gmail.com -->
+<!-- - ⚡ Pelotas / RS -->
 
 <div align="center">
   <a href="https://github.com/Grazziano">

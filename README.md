@@ -18,7 +18,7 @@
     </div>
   
   <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+  <div align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a>
@@ -52,7 +52,7 @@
 <!--     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a> -->
-  </p>
+  </div>
   
   <img src="https://github.com/Grazziano/Grazziano/blob/main/Captura%20de%20tela%20de%202022-02-11%2020-08-54.png" align="right" width="50%"/>
 

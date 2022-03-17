@@ -69,4 +69,6 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 📫 How to reach me **grazzianofagundes@gmail.com**
 - 🌱 I’m currently learning **JS, React, Node**
 - 💬 Ask me about **ReactJs and Frontend**
+    
+    ![Snake animation](https://github.com/Grazziano/Grazziano/blob/output/github-contribution-grid-snake.svg)
 

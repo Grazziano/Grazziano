@@ -65,7 +65,7 @@
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, NodeJS and Firebase.
 
 - 🔭 I'm a software developer in Brazil
-- 👨‍💻 All of my projects are available at [http://grazziano.space/](http://grazziano.space/)
+- 👨‍💻 All of my projects are available at [https://grazziano.github.io/resume/](https://grazziano.github.io/resume/)
 - 📫 How to reach me **grazzianofagundes@gmail.com**
 - 🌱 I’m currently learning **JS, React, Node**
 - 💬 Ask me about **ReactJs and Frontend**

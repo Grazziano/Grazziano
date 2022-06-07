@@ -58,6 +58,9 @@
         <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
           <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/redux.dark.svg" alt="redux" width="100" height="100"/>
         </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="100" height="100"/>
+        </a>
     </div>
   
   <img src="https://github.com/Grazziano/Grazziano/blob/main/Captura%20de%20tela%20de%202022-02-11%2020-08-54.png" align="right" width="50%"/>

@@ -9,8 +9,73 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grazziano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&layout=compact&langs_count=7&theme=dark"/>
     </div>
+      
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>React</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>NodeJS</strong>
+        </span><br><br><br>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Docker</strong>
+        </span><br><br><br>
+          <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" height="64"/>
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Jest</strong></span><br><br><br>
+          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="100" height="100"/>
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Postgres</strong></span><br><br><br>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="64"/>
+      </td>
+      <td width="25%" align="center">
+        <span><strong>MySql</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Typescript</strong></span><br><br><br>
+          <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" height="64"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<hr>
   
-  <h3 align="center">Languages:</h3>
+<!--   <h3 align="center">Languages:</h3>
     <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
@@ -61,7 +126,7 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
             <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="100" height="100"/>
         </a>
-    </div>
+    </div> -->
   
   <img src="https://github.com/Grazziano/Grazziano/blob/main/Captura%20de%20tela%20de%202022-02-11%2020-08-54.png" align="right" width="50%"/>
 

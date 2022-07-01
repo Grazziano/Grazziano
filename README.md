@@ -60,7 +60,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Jest</strong></span><br><br><br>
-          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="100" height="100"/>
+          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="64" height="64"/>
       </td>
       <td width="25%" align="center">
         <span><strong>Postgres</strong></span><br><br><br>

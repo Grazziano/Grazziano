@@ -3,7 +3,8 @@
   <a href = "mailto:grazzianofagundes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/grazziano-fagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<img align='right' src='https://github.com/Grazziano/Grazziano/blob/main/octocat-anime.gif?raw=true' width='150"'>
+<!-- <img align='right' src='https://github.com/Grazziano/Grazziano/blob/main/octocat-anime.gif?raw=true' width='150"'> -->
+<img src="https://github.com/Grazziano/Grazziano/blob/main/Captura%20de%20tela%20de%202022-02-11%2020-08-54.png" align="right" width="350"/>
 
 <div style="display: flex">
 <div>
@@ -20,11 +21,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Grazziano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&layout=compact&langs_count=7&theme=dark"/>
 
-  <img src="https://github.com/Grazziano/Grazziano/blob/main/Captura%20de%20tela%20de%202022-02-11%2020-08-54.png" align="right" width="50%"/>
  
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table align="left" width="40%">
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">

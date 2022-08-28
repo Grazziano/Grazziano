@@ -24,7 +24,7 @@
  
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table align="left">
+<table align="left" width="40%">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">

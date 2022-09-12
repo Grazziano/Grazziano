@@ -14,7 +14,7 @@
 - 🔭 I'm a software developer in Brazil
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-j37jbhpox-grazziano.vercel.app/)
 - 📫 How to reach me **grazzianofagundes@gmail.com**
-- 🌱 I’m currently learning **JS, React, Node, Typescript**
+- 🌱 I’m currently learning **JS, React, Node, Typescript, Python**
 - 💬 Ask me about **ReactJs and Frontend**
   
   <a href="https://github.com/Grazziano">

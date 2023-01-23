@@ -17,10 +17,10 @@
 - 🌱 I’m currently learning **JS, React, Node, Typescript, Python**
 - 💬 Ask me about **ReactJs and Frontend**
   
-  <a href="https://github.com/Grazziano">
+<!--   <a href="https://github.com/Grazziano">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Grazziano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&layout=compact&langs_count=5&hide=html,blade,c%23&theme=dark"/>
-  
+   -->
    <!-- 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&hide=html,blade,c%23&langs_count=5&layout=compact&theme=dark)](https://github.com/Grazziano/github-readme-stats)
   ![Grazziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grazziano&show_icons=true&theme=dark)

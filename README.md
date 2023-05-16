@@ -12,7 +12,7 @@
     I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, NodeJS and Firebase.
 
 - 🔭 I'm a software developer in Brazil
-- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-grazziano.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://my-portfolio-6h8abrwm4-grazziano.vercel.app/)
 - 📫 How to reach me **grazzianofagundes@gmail.com**
 - 🌱 I’m currently learning **JS, React, Node, Typescript, Python**
 - 💬 Ask me about **ReactJs and Frontend**

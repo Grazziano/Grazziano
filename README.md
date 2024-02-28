@@ -1,36 +1,85 @@
-<div> 
-  <a href="https://www.instagram.com/grazzianoborgesfagundes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:grazzianofagundes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/grazziano-fagundes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-<!-- <img align='right' src='https://github.com/Grazziano/Grazziano/blob/main/octocat-anime.gif?raw=true' width='150"'> -->
-<img src="https://github.com/Grazziano/Grazziano/blob/main/Captura%20de%20tela%20de%202022-02-11%2020-08-54.png" align="right" width="350"/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="display: flex">
-<div>
-    <h1 align="left">Hi 👋, I'm Grazziano</h1>
-    I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, NodeJS and Firebase.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Grazziano</h1></summary>
+  </ul>
+</div>
 
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/Grazziano/Grazziano/blob/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--Intro start-->
 - 🔭 I'm a software developer in Brazil
+
 - 👨‍💻 All of my projects are available at [portfolio](https://my-portfolio-theta-tawny.vercel.app/)
+
 - 📫 How to reach me **grazzianofagundes@gmail.com**
+
 - 🌱 I’m currently learning **JS, React, Node, Typescript, Python**
-- 💬 Ask me about **ReactJs and Frontend**
+
+- 💬 Ask me about **JS, ReactJs and Frontend**
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  title="Most Used Languages" alt="Mark streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&hide=html,blade,scss,Objective-C,css,c%23&langs_count=5&layout=compact&theme=dark&hide_border=false" /> 
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Grazziano&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Grazziano&theme=dark&hide_border=false" />  -->
+</td>
+
+<td width="50%" align="center">
+
+  <!-- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Grazziano&theme=dark&hide=c%23&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> -->
+  <img  align="center"  src="Captura de tela de 2022-02-11 20-08-54.png"/>
   
-<!--
-<a href="https://github.com/Grazziano">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Grazziano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&layout=compact&langs_count=5&hide=html,blade,c%23&theme=dark"/>
--->
-  <!--
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&layout=compact&theme=dark)](https://github.com/Grazziano/github-readme-stats)
-  -->
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&hide=html,blade,scss,Objective-C,css,c%23&langs_count=5&layout=compact&theme=dark)](https://github.com/Grazziano/github-readme-stats)
-    ![Grazziano's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grazziano&show_icons=true&theme=dark)
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Grazziano&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
- 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,docker,express,figma,firebase,github,html,js,linux,mongodb,mysql,postgres,nextjs,nodejs,postman,react,redux,ts&perline=10" />
+  </a>
+</p> -->
 
 <table align="center">
   <tbody>
@@ -93,68 +142,39 @@
     </tr>
   </tbody>
 </table>
-<hr>
-  
-<!--   <h3 align="center">Languages:</h3>
-    <div align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100"/>
-        </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
-        </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100"/>
-        </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/>
-        </a>
-    </div>
-</div>
-    <h3 align="center">Frameworks:</h3>
-    <div align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100"/>
-        </a>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/>
-        </a>
-        <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="100" height="100"/>
-        </a>
-    </div>
-    <h3 align="center">Other Tools:</h3>
-    <div align="center">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/>
-        </a>
-        <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="100" height="100"/>
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/>
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="100" height="100"/>
-        </a>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/>
-        </a>
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/redux.dark.svg" alt="redux" width="100" height="100"/>
-        </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="javascript" width="100" height="100"/>
-        </a>
-    </div> -->
-  
-  ![Snake animation](https://github.com/Grazziano/Grazziano/blob/output/github-contribution-grid-snake.svg)
-  <!-- <img src="https://github.com/Grazziano/Grazziano/blob/main/Captura%20de%20tela%20de%202022-02-11%2020-08-54.png" align="right" width="50%"/> -->
- </div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">✍️ Random Dev Quote</h2></summary>
+  </ul>
 </div>
 
+<div align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
 
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&hide=html&layout=compact=true&theme=dark"/>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/grazziano-fagundes/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
   
-  [![grazziano](https://github-readme-stats.vercel.app/api/top-langs/?username=Grazziano&hide=html&layout=compact=true&theme=default)](https://github.com/Grazziano/) -->
+[![](https://visitcount.itsvg.in/api?id=Grazziano&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------

@@ -22,7 +22,8 @@
 <!--Intro start-->
 - 🔭 I'm a software developer in Brazil
 
-- 👨‍💻 All of my projects are available at [portfolio](https://my-portfolio-theta-tawny.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [portfolio](https://my-portfolio-theta-tawny.vercel.app/) -->
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-grazzianos-projects.vercel.app/)
 
 - 📫 How to reach me **grazzianofagundes@gmail.com**
 

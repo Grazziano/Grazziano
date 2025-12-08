@@ -9,6 +9,25 @@
 
 ---
 
+## 🎓 Graduação
+
+**Mestrado em Ciências da Computação**
+
+- Instituição: _UFPEL - Universidade Federal de Pelotas_
+- Período: _[2024 – atual]_
+
+**Desenvolvimento web**
+
+- Instituição: _Trybe_
+- Período: _[2021 – 2022]_
+
+**Analise e Desenvolvimento de Sistemas**
+
+- Instituição: _UniSenac Pelotas_
+- Período: _[2017 – 2019]_
+
+---
+
 ## 👋 Sobre mim
 
 Desenvolvedor de software com foco em **Frontend moderno** e experiência em criação de interfaces escaláveis, responsivas e acessíveis.  

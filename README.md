@@ -14,7 +14,7 @@
 **Mestrado em Ciências da Computação**
 
 - Instituição: _UFPEL - Universidade Federal de Pelotas_
-- Período: _[2024 – atual]_
+- Período: _[2024 – 2026]_
 
 **Desenvolvimento web**
 
